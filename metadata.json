@@ -1,0 +1,8 @@
+{
+  "name": "PRODUCT QUEST — AMAZING RACE PRODUKSI",
+  "description": "Aplikasi petualangan edukatif produksi massal skala kecil untuk SMKS Kesehatan Fania Salsabila Kota Jambi, Mapel Kreatif Inovatif dan Kewirausahaan (KIK) bersama Guru A. Rahman, S.Kom., Gr.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
